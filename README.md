@@ -126,25 +126,3 @@ This project demonstrates the effectiveness of Convolutional Neural Networks in 
 
 ---
 
-## ⭐ Acknowledgment
-
-Dataset provided by Kaggle. This project is developed as part of an academic submission.
-
----
-
-## 📎 How to Run the Project
-
-1. Clone the repository
-2. Install required libraries
-3. Set Kaggle API token
-4. Run the Jupyter Notebook step by step
-
----
-
-## 📬 Contact
-
-For any queries, feel free to reach out via GitHub.
-
----
-
-⭐ If you find this project useful, please consider giving it a star!
