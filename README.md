@@ -1,5 +1,5 @@
 
-# DeepFER-Facial-Emotion-Recognition-Using-Deep-Learning
+# DeepFER:Facial Emotion Recognition Using Deep Learning
 
 ## 📌 Project Overview
 
