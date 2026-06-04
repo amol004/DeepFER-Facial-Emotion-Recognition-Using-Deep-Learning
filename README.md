@@ -104,7 +104,7 @@ The CNN model successfully learns facial features and classifies emotions with r
 ## 🚀 Future Improvements
 
 * Apply data augmentation techniques
-* Use transfer learning models such as VGG16 or ResNet
+* Used transfer learning models such as ResNet
 * Implement real-time emotion detection using webcam
 * Improve accuracy using a larger dataset
 
