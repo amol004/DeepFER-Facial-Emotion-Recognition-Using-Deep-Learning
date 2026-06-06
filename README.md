@@ -1,6 +1,11 @@
 
 # DeepFER:Facial Emotion Recognition Using Deep Learning
 
+
+
+<img width="1024" height="559" alt="image" src="https://github.com/user-attachments/assets/eac5e640-f838-4a0e-bc60-d68cf887b572" />
+
+
 ## 📌 Project Overview
 
 Facial Expression Recognition is a deep learning–based computer vision project that aims to automatically identify human emotions from facial images. This project uses a **Convolutional Neural Network (CNN)** to classify facial expressions into multiple emotion categories such as angry, happy, sad, fear, surprise, disgust, and neutral.
